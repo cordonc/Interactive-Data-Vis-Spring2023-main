@@ -1,0 +1,39 @@
+body {
+  font-family: 'Rubik Mono One', 'Rubik', sans-serif;  
+  font-size: 16px;
+  padding: 5em;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.25em 0;
+  text-align: center;
+  padding-bottom: .5em;
+}
+
+h2 {
+  font-size:2.5em;
+  margin: .25em 0;
+  text-align: center;
+  padding-bottom: .5em;
+  color: rgba(232, 85, 109, 0.749)
+
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+  text-align: center;
+  padding-bottom: .5em;
+
+}
+
+p {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 1.25em;
+  color: rgb(81, 75, 76);
+  text-align: justify;
+  line-height: 1.5em;
+
+  
+}
