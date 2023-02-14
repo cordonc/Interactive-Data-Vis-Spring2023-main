@@ -8,7 +8,7 @@ The goals for this tutorial are:
 
 ## Assignment:
 
-- [ ] Replicate this environment on your own computer. You should leverage the files present in the root of this directory in your repository (`1_1_getting_started/` [index.html](index.html), [style.css](style.css), [main.js](main.js))
+- [X] Replicate this environment on your own computer. You should leverage the files present in the root of this directory in your repository (`1_1_getting_started/` [index.html](index.html), [style.css](style.css), [main.js](main.js))
    1. First, confirm you have all the [installations](./1_INSTALL.md) on your machine. If you have no errors, proceed to the next step.
    2. While logged in to your github username, follow the [github workflow](./2_GIT_SETUP.md) to fork this repository into your own account.
    3. Ensure that you can [serve](./3_BASIC_SERVER.md) locally.
@@ -17,8 +17,8 @@ The goals for this tutorial are:
 
 **BONUS:**
 
-- [ ] Play with the page styles using CSS
-- [ ] Add additional HTML elements to the main page
+- [X] Play with the page styles using CSS
+- [X] Add additional HTML elements to the main page
 
 ## Deploy + Submit
 
